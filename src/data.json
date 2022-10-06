@@ -1,0 +1,183 @@
+[
+    {
+        "id": 1,
+        "title": "Andy you are a star",
+        "artist": "The Killers",
+        "album": "Hot fuss",
+        "genre": "rock",
+        "media": "hot-fuss"
+       
+       
+    },
+    {
+        "id": 2,
+        "title": "Change your mind",
+        "artist": "The Killers",
+        "album": "Hot fuss",
+        "genre": "rock",
+        "media": "hot-fuss"
+        
+    },
+    {
+        "id": 3,
+        "title": "Despacito",
+        "artist": "Luis Fonsi",
+        "album": "Vida",
+        "genre": "reggaeton",
+        "media": "vida"
+        
+    },
+    {
+        "id": 4,
+        "title": "El muro",
+        "artist": "Daddy Yankee",
+        "album": "Barrio fino",
+        "genre": "reggaeton",
+        "media": "picture-no-album"
+    },
+    {
+        "id": 5,
+        "title": "Forbidden love",
+        "artist": "Madonna",
+        "album": "Confessions on the dance floor",
+        "genre": "pop",
+       " media": "confessions-on-the-dance-floor"
+        
+    },
+    {
+       " id": 6,
+       " title": "Frozen",
+        "artist": "Madonna",
+        "album": "Ray of light",
+        "genre": "pop",
+        "media": "ray-of-light"
+        
+    },
+    {
+        "id": 7,
+       " title": "Gasolina",
+        "artist": "Daddy Yankee",
+        "album": "Barrio fino",
+        "genre": "reggaeton",
+        "media": "picture-no-album"
+        
+    },
+    {
+        "id": 8,
+       " title": "I love New York",
+       " artist": "Madonna",
+       " album": "Confessions on the dance floor",
+       " genre": "pop",
+        "media": "confessions-on-the-dance-floor"
+        
+    },
+    {
+        "id": 9,
+        "title": "Jump",
+        "artist": "Madonna",
+        "album": "Ray of light",
+        "genre": "pop",
+        "media": "confessions-on-the-dance-floor"
+        
+    },
+    {
+       " id": 10,
+        "title": "Little star",
+        "artist": "Madonna",
+        "album": "Ray of light",
+        "genre": "pop",
+        "media": "ray-of-light"
+       
+    },
+    {
+        "id": 11,
+       " title": "Lo que pasó pasó",
+        "artist": "Daddy Yankee",
+        "album": "Barrio fino",
+       " genre": "reggaeton",
+       "media": "picture-no-album"
+      
+    },
+    {
+       " id": 12,
+       " title": "Night train",
+        "artist": "Guns and Roses",
+        "album": "Appetite for destruction",
+       " genre": "rock",
+        "media": "appetite-for-destruction"
+        
+    },
+    {
+       " id": 13,
+       " title": "Paradise city",
+       " artist": "Guns and Roses",
+        "album": "Appetite for destruction",
+        "genre": "rock",
+        "media": "appetite-for-destruction"
+       
+    },
+    {
+        "id": 14,
+        "title": "Since i dont have you",
+        "artist": "Guns and Roses",
+        "album": "The spaghetti incident",
+       " genre": "rock",
+       "media": "vida"
+        
+    },
+    {
+        "id": 15,
+        "title": "Sola",
+        "artist": "Luis Fonsi",
+        "album": "Vida",
+        "genre": "reggaeton",
+        "media": "vida"
+       
+    },
+    {
+        "id": 16,
+        "title": "This love",
+        "artist": "Taylor Swift",
+       " album": "1989",
+       " genre": "pop",
+       " media": "1989"
+       
+    },
+    {
+        "id": 17,
+        "title": "Welcome to New York",
+       " artist": "Taylor Swift",
+        "album": "1989",
+       " genre": "pop",
+       " media": "1989"
+       
+    },
+    {
+        "id": 18,
+        "title": "Welcome to the family",
+       " artist": "Avenged Sevenfold",
+        "album": "Nightmare",
+        "genre": "metal",
+        "media": "nightmare"
+       
+    },
+    {
+        "id": 19,
+        "title": "Welcome to the jungle",
+        "artist": "Guns and Roses",
+       " album": "Appetite for destruction",
+        "genre": "rock",
+       " media": "appetite-for-destruction"
+       
+    },
+    {
+        "id": 20,
+        "title": "When we where young",
+        "artist": "The Killers",
+        "album": "Sam's town",
+       " genre": "rock",
+        "media": "picture-no-album"
+    }
+    ]
+    
+
