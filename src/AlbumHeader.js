@@ -3,6 +3,7 @@ import React from 'react';
 import './App.css';
 
 
+
 function AlbumHeader(props){
     return (
         <article class="AlbumHeader">
